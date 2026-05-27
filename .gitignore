@@ -1,0 +1,22 @@
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Debug / temp logs
+app_err*.txt
+app_out*.txt
+
+# Screenshots (dev only)
+screenshot_*.png
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Claude session files
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
