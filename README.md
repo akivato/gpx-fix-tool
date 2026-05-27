@@ -7,6 +7,11 @@ Built for runners in areas affected by GPS jamming (e.g. Israel), where the watc
 
 ---
 
+<img width="1039" height="889" alt="image" src="https://github.com/user-attachments/assets/569b6dd9-68f0-4849-a46a-6101bda76410" />
+
+<img width="1071" height="903" alt="image" src="https://github.com/user-attachments/assets/d1666635-9d81-444b-a76b-275e1474564a" />
+
+
 ## How it works
 
 You provide two activities that follow the **same route**:
